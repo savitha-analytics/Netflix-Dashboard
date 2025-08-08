@@ -1,87 +1,71 @@
-📊 Netflix Dashboard – Power BI Project
-📌 Overview
-This project is an interactive Netflix content dashboard created in Power BI during my one-month internship at Assistlana Company.
-The dashboard provides clear, actionable insights into Netflix’s global content library, including:
+# 📊 **Netflix Dashboard – Power BI Project**
 
-Content distribution across movies and TV shows
+## 📌 **Overview**
+This is an **interactive Netflix content dashboard** created in **Power BI** during my **one-month internship at Assistlana Company**.
 
-Top genres and ratings
+The dashboard provides **clear and actionable insights** into Netflix’s global content library, including:
+- **Content type distribution** (Movies vs TV Shows)
+- **Top genres and ratings**
+- **Year-wise release trends**
+- **Country-wise availability**
 
-Year-wise release trends
+Dataset covers Netflix titles released between **1925 and 2021**.
 
-Country-wise content availability
+---
 
-The dataset covers Netflix titles released from 1925 to 2021.
+## 🎯 **Key Insights**
+- **Total Titles:** 8,809
+- **Genres Covered:** 515
+- **Ratings:** 19 categories
+- **Unique Directors:** 4,527
+- **Earliest Release Year:** 1925
+- **Latest Release Year:** 2021
 
-🎯 Key Insights
-Total Titles: 8,809
+---
 
-Genres Covered: 515
+## 📈 **Dashboard Highlights**
+1. **Top 5 Ratings by Total Shows**
+   - **TV-MA** – 3,200+ shows
+   - **TV-14** and **TV-PG** follow
 
-Ratings: 19 different rating categories
+2. **Movies vs TV Shows**
+   - 🎬 **Movies:** 30.38%
+   - 📺 **TV Shows:** 69.62%
 
-Total Directors: 4,527 unique directors
+3. **Genre Analysis**
+   - Popular: *International Dramas*, *Documentaries*, *Stand-Up Comedy*
 
-Earliest Content Year: 1925
+4. **Country Distribution**
+   - Map visual showing **global Netflix spread**
 
-Latest Content Year: 2021
+5. **Release Year Trends**
+   - Peak growth in **2018–2020**
 
-📈 Dashboard Features
-Top 5 Ratings by Total Shows
+6. **Interactive Filters**
+   - Filter by **Rating**, **Genre**, **Year**
 
-TV-MA leads with over 3,200 shows
+---
 
-TV-14 and TV-PG follow closely
+## 🛠 **Tools & Technologies**
+- **Power BI** – Dashboard & visualizations
+- **Excel / CSV Dataset** – Data source
+- **Power Query** – Data cleaning
 
-Movies vs TV Shows
+---
 
-Movies: 30.38% of the library
+## 📂 **Dataset**
+- **Source:** [Netflix Dataset – Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
+- **Format:** CSV / Excel
 
-TV Shows: 69.62% of the library
+---
 
-Genre Analysis
+## 💡 **Future Improvements**
+- Add **viewer ratings & reviews**
+- Include **watch time per genre**
+- Use **predictive analytics** for trend forecasting
 
-Most popular genres include:
+---
 
-International Dramas
-
-Documentaries
-
-Stand-Up Comedy
-
-Country Distribution
-
-Map visualization showing global spread of Netflix titles
-
-Release Year Trends
-
-Sharp growth in content releases between 2018–2020
-
-Interactive Filters
-
-Explore data by rating, genre, and year for custom analysis
-
-🛠 Tools & Technologies
-Power BI – Dashboard design and visualization
-
-Excel / CSV Dataset – Data source
-
-Power Query – Data cleaning and preprocessing
-
-
-
-
-📂 Dataset
-Source: Netflix Dataset – Kaggle
-
-Format: CSV / Excel
-
-💡 Future Improvements
-Add viewer ratings & reviews for deeper insights
-
-Include viewing time per genre
-
-Use predictive analytics to forecast future trends
-
-🙌 Acknowledgements
-Special thanks to my mentor [Mentor Name] for guidance and to Assistlana Company for providing the internship opportunity and resources to complete this project.
+## 🙌 **Acknowledgements**
+Special thanks to my **mentor** for guidance and **Assistlana Company** for providing the internship opportunity and resources.
+nce and to Assistlana Company for providing the internship opportunity and resources to complete this project.
